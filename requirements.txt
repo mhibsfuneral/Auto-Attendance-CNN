@@ -1,0 +1,7 @@
+customtkinter
+opencv-python
+numpy
+pillow
+tensorflow
+keras-facenet
+mtcnn
